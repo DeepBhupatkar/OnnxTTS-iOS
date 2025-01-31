@@ -1,0 +1,20 @@
+PODS:
+  - onnxruntime-c (1.20.0)
+  - onnxruntime-extensions-c (0.13.0)
+
+DEPENDENCIES:
+  - onnxruntime-c
+  - onnxruntime-extensions-c
+
+SPEC REPOS:
+  trunk:
+    - onnxruntime-c
+    - onnxruntime-extensions-c
+
+SPEC CHECKSUMS:
+  onnxruntime-c: 07cfff40dda7e1c54a4350bb2ad226c63150fce3
+  onnxruntime-extensions-c: 46aede179035fc012b044e75f5b0da4e4b1a39e3
+
+PODFILE CHECKSUM: a33078059d4d4a1a8ee78b2fd5bca6904bd4d1e5
+
+COCOAPODS: 1.16.2
